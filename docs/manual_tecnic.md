@@ -15,3 +15,5 @@ Aplicació client-servidor amb API REST.
 - `/backend` - API i lògica de negoci
 - `/frontend` - Interfície d'usuari
 - `/database` - Migracions i models
+
+# Afegir secció d'autenticació JWT
