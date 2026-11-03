@@ -13,7 +13,7 @@ Aplicació per monitoritzar i optimitzar el consum energètic de llars i emprese
 ## Enllaços
 - [Manual d'usuari](docs/manual_usuari.md)
 - [Manual tècnic](docs/manual_tecnic.md)
-- [Guia d'instal·lació](docs/guia_instalacio.md)
+- [Guia d'instal·lació](docs/manuals/guia_instalacio.md)
 
 
 ## 🛠️ Tecnologies
